@@ -11,6 +11,7 @@ clone this projet :
 	git clone https://github.com/aamarcha/ionic-angular-cordova-grunt-seed.git
 
 After that, in the project root, issue the following commands:
+
 	npm install -g cordova
 	npm install
 	bower install
@@ -21,5 +22,6 @@ To init cordova environnement
 
 	grunt init
 
-Create a deployable artifact in www directory and run the mobile App (android for the istarter) 
+Create a deployable artifact in www directory and run the mobile App (android for the istarter)
+
 	grunt install
