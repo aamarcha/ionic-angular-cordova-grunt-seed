@@ -3,6 +3,7 @@
 This project is a grunt project. You need a running [nodeJS](http://nodejs.org/), and
 [bower](https://github.com/bower/bower) installation.
 
+This project is based on [ionic-angular-cordova-seed](https://github.com/driftyco/ionic-angular-cordova-seed)
 
 ##Installation
 
