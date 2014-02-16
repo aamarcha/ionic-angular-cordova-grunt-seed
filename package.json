@@ -1,9 +1,10 @@
 {
   "name": "istarter",
   "description": "grunt ionic angular cordova seed.",
+  "author": "Antoine Adil Aamarcha <a.aamarcha@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://aaamarcha@bitbucket.org/aaamarcha/mls.git"
+    "url": "https://github.com/aamarcha/ionic-angular-cordova-grunt-seed.git"
   },
   "version": "1.0.0",
   "license": "MIT",

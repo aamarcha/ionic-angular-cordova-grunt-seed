@@ -8,7 +8,7 @@ This project is a grunt project. You need a running [nodeJS](http://nodejs.org/)
 
 clone this projet :
 	
-	git clone https://aaamarcha@bitbucket.org/aaamarcha/wbiapp.git
+	git clone https://github.com/aamarcha/ionic-angular-cordova-grunt-seed.git
 
 After that, in the project root, issue the following commands:
 	npm install -g cordova
