@@ -1,0 +1,15 @@
+{
+  "name": "istarter",
+  "description": "grunt ionic angular cordova seed.",
+  "repository": {
+    "type": "git",
+    "url": "https://aaamarcha@bitbucket.org/aaamarcha/mls.git"
+    },
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {
+      "ionic": "~0.9.24"
+      },
+      "devDependencies": {
+      }
+    }

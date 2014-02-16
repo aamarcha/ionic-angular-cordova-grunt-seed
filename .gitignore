@@ -1,0 +1,5 @@
+*.keystore
+*.sw*
+bower_components
+dist
+node_modules
